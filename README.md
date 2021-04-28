@@ -1,0 +1,2 @@
+# ARM-VMSS
+ARM Template VMSS
